@@ -1,0 +1,2 @@
+# Attendence-CNIC-
+CNIC DATA 
